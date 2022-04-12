@@ -99,7 +99,7 @@
         <sun.istack.version>3.0.10</sun.istack.version>
         <sun.xml.bind.version>2.3.3-b02</sun.xml.bind.version>
         <javax.xml.bind.jaxb.version>2.4.0-b180830.0359</javax.xml.bind.jaxb.version>
-        <sun.xml.ws.version>2.3.1</sun.xml.ws.version>
+        <sun.xml.ws.version>2.3.5</sun.xml.ws.version>
         <sun.activation.version>1.2.2</sun.activation.version>
         <org.glassfish.jaxb.xsom.version>2.3.3-b02</org.glassfish.jaxb.xsom.version>
         <undertow.version>2.2.5.Final</undertow.version>
@@ -254,7 +254,7 @@
         </developer>
     </developers>
 
-    <contributors></contributors>
+    <contributors/>
 
     <modules>
         <module>boms</module>

@@ -124,7 +124,7 @@
         <commons-lang3.version>3.11</commons-lang3.version>
         <commons-io.version>2.7</commons-io.version>
         <apacheds.version>2.0.0.AM26</apacheds.version>
-        <apacheds.codec.version>2.0.0</apacheds.codec.version>
+        <apacheds.codec.version>2.1.0</apacheds.codec.version>
         <google.zxing.version>3.4.0</google.zxing.version>
         <freemarker.version>2.3.31</freemarker.version>
 
@@ -254,7 +254,7 @@
         </developer>
     </developers>
 
-    <contributors></contributors>
+    <contributors/>
 
     <modules>
         <module>boms</module>

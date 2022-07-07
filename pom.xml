@@ -141,7 +141,7 @@
         <mysql.version>8.0.23</mysql.version>
         <mysql.driver.version>8.0.23</mysql.driver.version>
         <postgresql.version>13.2</postgresql.version>
-        <postgresql.driver.version>42.2.18</postgresql.driver.version>
+        <postgresql.driver.version>42.2.25</postgresql.driver.version>
         <mariadb.version>10.3.27</mariadb.version>
         <mariadb.driver.version>2.7.2</mariadb.driver.version>
         <mssql.version>2019-CU10-ubuntu-20.04</mssql.version>
@@ -254,7 +254,7 @@
         </developer>
     </developers>
 
-    <contributors></contributors>
+    <contributors/>
 
     <modules>
         <module>boms</module>

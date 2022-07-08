@@ -128,7 +128,7 @@
         <google.zxing.version>3.4.0</google.zxing.version>
         <freemarker.version>2.3.31</freemarker.version>
 
-        <jetty9.version>${jetty92.version}</jetty9.version>
+        <jetty9.version>10.0.10</jetty9.version>
         <liquibase.version>3.5.5</liquibase.version>
         <osgi.version>4.2.0</osgi.version>
         <pax.web.version>7.1.0</pax.web.version>
@@ -254,7 +254,7 @@
         </developer>
     </developers>
 
-    <contributors></contributors>
+    <contributors/>
 
     <modules>
         <module>boms</module>
